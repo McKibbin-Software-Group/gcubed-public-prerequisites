@@ -1,7 +1,7 @@
-pandas==2.2.2
-numpy==2.1.1
-scipy==1.14.1
-regex==2024.9.11
+pandas
+numpy
+scipy
+regex
 jinja2
 urllib3
 requests

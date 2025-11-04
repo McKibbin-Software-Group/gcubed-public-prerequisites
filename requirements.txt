@@ -5,8 +5,4 @@ regex==2024.9.11
 jinja2
 urllib3
 requests
-pytest
 black
-pyc_wheel
-build
-
